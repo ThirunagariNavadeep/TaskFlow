@@ -119,7 +119,7 @@ Add screenshots captured from the running application to the `screenshots/` dire
 | Page | Screenshot |
 | --- | --- |
 | Dashboard | [View dashboard](https://github.com/ThirunagariNavadeep/TaskFlow/blob/dab73a672666a099a84411e2e0abfa3140d62f48/screenshots/Dashboard.png) |
-| Projects | [View projects](screenshots/projects.png) |
+| Projects | [View projects](https://github.com/ThirunagariNavadeep/TaskFlow/blob/a582fa39410782321ac353190ddeb2552c5099af/screenshots/Projects.png) |
 | Tasks and filters | [View tasks](screenshots/tasks.png) |
 | Login | [View login](screenshots/login.png) |
 
@@ -127,7 +127,7 @@ Add screenshots captured from the running application to the `screenshots/` dire
 
 ![TaskFlow dashboard](https://github.com/ThirunagariNavadeep/TaskFlow/blob/dab73a672666a099a84411e2e0abfa3140d62f48/screenshots/Dashboard.png)
 
-![TaskFlow projects](screenshots/projects.png)
+![TaskFlow projects](https://github.com/ThirunagariNavadeep/TaskFlow/blob/a582fa39410782321ac353190ddeb2552c5099af/screenshots/Projects.png)
 
 ![TaskFlow tasks](screenshots/tasks.png)
 
