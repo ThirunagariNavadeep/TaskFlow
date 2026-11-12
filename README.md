@@ -118,14 +118,14 @@ Add screenshots captured from the running application to the `screenshots/` dire
 
 | Page | Screenshot |
 | --- | --- |
-| Dashboard | [View dashboard](screenshots/dashboard.png) |
+| Dashboard | [View dashboard](https://github.com/ThirunagariNavadeep/TaskFlow/blob/dab73a672666a099a84411e2e0abfa3140d62f48/screenshots/Dashboard.png) |
 | Projects | [View projects](screenshots/projects.png) |
 | Tasks and filters | [View tasks](screenshots/tasks.png) |
 | Login | [View login](screenshots/login.png) |
 
 ### Preview
 
-![TaskFlow dashboard](screenshots/dashboard.png)
+![TaskFlow dashboard](https://github.com/ThirunagariNavadeep/TaskFlow/blob/dab73a672666a099a84411e2e0abfa3140d62f48/screenshots/Dashboard.png)
 
 ![TaskFlow projects](screenshots/projects.png)
 
