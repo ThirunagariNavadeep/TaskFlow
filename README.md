@@ -121,7 +121,7 @@ Add screenshots captured from the running application to the `screenshots/` dire
 | Dashboard | [View dashboard](https://github.com/ThirunagariNavadeep/TaskFlow/blob/dab73a672666a099a84411e2e0abfa3140d62f48/screenshots/Dashboard.png) |
 | Projects | [View projects](https://github.com/ThirunagariNavadeep/TaskFlow/blob/a582fa39410782321ac353190ddeb2552c5099af/screenshots/Projects.png) |
 | Tasks and filters | [View tasks](https://github.com/ThirunagariNavadeep/TaskFlow/blob/4699d086f1e8238426351ecef484e5e63d122d31/screenshots/Task.png) |
-| Login | [View login](screenshots/login.png) |
+| Login | [View login](https://github.com/ThirunagariNavadeep/TaskFlow/blob/4699d086f1e8238426351ecef484e5e63d122d31/screenshots/Login.png) |
 
 ### Preview
 
