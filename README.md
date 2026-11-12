@@ -111,7 +111,7 @@ python -m pytest -q
 ```
 
 ## Screenshots
-Dashboard: ((https://github.com/ThirunagariNavadeep/TaskFlow/blob/24e7adc71b63b07007cfbf2fba250a713a4c7e31/screenshots/Dashboard.png))
+[Dashboard]: (https://github.com/ThirunagariNavadeep/TaskFlow/blob/24e7adc71b63b07007cfbf2fba250a713a4c7e31/screenshots/Dashboard.png)
 
 
 
